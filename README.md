@@ -1,33 +1,18 @@
-# Ryan Mette
-New homepage. What's happening?
+# rjmette.github.io
 
-## Active Projects
-Block chain education and product development
-Areas of Interest
-- AI and Music
-- Cloud Deployment Architectures
-- AWS Certifications
+Static site for Ryan Mette. GitHub Pages serves `index.html` and `styles.css` directly. There is no build step and no framework.
 
-## Work Experience
-### Inteliquent
-- Sinch
-- Voyant
-- Inteliquent
-- Vitelity
+The page is a short introduction and a timeline of AI projects, in the order they were built. Most source repositories are private, so the only project links are live demos.
 
-### 21-6 Productions
-- Founder
-- Game developer and enthusiest
-- Pushed boundries on casual gaming market
-- Casual, Educational and Social experience
-- Analytics
+## Timeline
 
-### eonBusiness
-- Search Engine Optimization
-- E-Commerce
-- Startup
+1. **TalkToBill** (2023). My first AI implementation.
+2. **proxima** (April 2025). The second iteration: a proactive AI personal assistant.
+3. **protoblast25** and **bridgesim** (May to June 2025). A starship bridge game where you give voice commands to an AI crew. My brother Justin and I each built a version. Live demo: https://bridgesim.rbios.net
+4. **wallpaper**. A carousel of NASA's Astronomy Picture of the Day with AI-generated facts. Live demo: https://wallpaper.rbios.net
+5. **create**. A project management dashboard with GitHub integration. Live demo: https://create.rbios.net
+6. **beenbot**. My personal agent platform. Placeholder: Blurb coming soon.
 
-## Personal links
-- LinkedIn
-- Email
-- 303-900-AHOL
+## Preview
+
+Open `index.html` in a browser. Nothing to install and nothing to build.
